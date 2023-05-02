@@ -1,6 +1,12 @@
 .button {
   background-color: #00aae6;
 }
+.navbar {
+  background-color: #fbf7ed;
+}
+.upper {
+  background-color: #fbf7ed;
+}
 .upper .isi {
   height: 550px;
 }
