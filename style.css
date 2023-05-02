@@ -16,6 +16,6 @@
 }
 .body-content {
   background-image: url("assets/S.svg");
-  object-fit: cover;
   background-repeat: no-repeat;
+  background-size: cover;
 }
