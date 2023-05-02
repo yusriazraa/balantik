@@ -7,6 +7,12 @@
 .content-penjelasan {
   background-color: #0079b2;
 }
+.downloadstage .main-download {
+  background-color: #0079b2;
+}
+.downloadstage .icon-umkm {
+  /* background-color: #; */
+}
 .upper {
   background-color: #fbf7ed;
   color: #0079b2;
